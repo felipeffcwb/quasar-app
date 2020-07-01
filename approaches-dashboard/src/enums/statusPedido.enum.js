@@ -1,0 +1,5 @@
+export const StatusPedido = {
+  AGUARDANDO: 'AGUARDANDO',
+  APROVADO: 'APROVADO',
+  CANCELADO: 'CANCELADO'
+}

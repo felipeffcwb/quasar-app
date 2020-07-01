@@ -1,0 +1,3 @@
+Criar plataforma para contratar "ois", 
+cada influencer pode receber receber vários pedidos, cada cliente pode fazer vários pedidos, cada pedido pode ser
+de apenas um cliente e de apenas um influencer
